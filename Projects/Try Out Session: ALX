@@ -1,0 +1,9 @@
+Objective: To find a hidden “flag” in a webpage’s source code.
+
+Tools Used: Web browser (Chrome); Webpage (www.Jumia.com)
+
+Process: I visited the website www. Jumia.com, I right clicked on the webpage after it successfully loaded then selected the "View Page Source" which opened on a differet tab. 
+I proceeded by pressing the command "Press Ctrl+F" which opened a new page with the image below:
+
+Findings: I found out that the webpage has a 9 flags.
+Reflection/Learning: Every website is built with HTML code that your browser reads to display the page. Sometimes, developers leave comments or hidden information in this code. 
